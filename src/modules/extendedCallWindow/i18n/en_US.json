@@ -319,7 +319,12 @@
             },
             {
                 "equipment": ["energy_supply"],
-                "texts": ["Energy Supplie", "Energy Supplies"],
+                "texts": [
+                    "Energy Supplie",
+                    "Energy Supplies",
+                    "Energy Generator",
+                    "Energy Generators"
+                ],
                 "vehicles": [94]
             },
             {
